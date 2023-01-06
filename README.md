@@ -1,4 +1,4 @@
 # javasscript
  Curso de JavaScript do CursoemVideo
 
-Novo repositório javasScript!!
+Novo repositório javaScript!!
